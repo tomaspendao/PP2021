@@ -1,0 +1,2822 @@
+[
+  {
+    "date": "202105121800",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Calçada da Ajuda",
+    "coordinates": {
+      "lng": -9.199692206,
+      "x": -92781.0,
+      "y": -106663.0,
+      "z": 0.0,
+      "lat": 38.70263097
+    },
+    "id": "QA0NO20001",
+    "value": 151.0
+  },
+  {
+    "date": "202105121800",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Calçada da Ajuda",
+    "coordinates": {
+      "lng": -9.199692206,
+      "x": -92781.0,
+      "y": -106663.0,
+      "z": 0.0,
+      "lat": 38.70263097
+    },
+    "id": "QA00O30001",
+    "value": 157.0
+  },
+  {
+    "date": "202105120000",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Calçada da Ajuda",
+    "coordinates": {
+      "lng": -9.199692206,
+      "x": -92781.0,
+      "y": -106663.0,
+      "z": 0.0,
+      "lat": 38.70263097
+    },
+    "id": "QAPM100001",
+    "value": 27.0
+  },
+  {
+    "date": "202105121800",
+    "dateStandard": "UTC",
+    "unit": "dB(A)",
+    "address": "Calçada da Ajuda",
+    "coordinates": {
+      "lng": -9.199692206,
+      "x": -92781.0,
+      "y": -106663.0,
+      "z": 0.0,
+      "lat": 38.70263097
+    },
+    "id": "RULAEQ0001",
+    "value": 53.0
+  },
+  {
+    "date": "202105121800",
+    "dateStandard": "UTC",
+    "unit": "mbar",
+    "address": "Calçada da Ajuda",
+    "coordinates": {
+      "lng": -9.199692206,
+      "x": -92781.0,
+      "y": -106663.0,
+      "z": 0.0,
+      "lat": 38.70263097
+    },
+    "id": "ME00PA0001",
+    "value": 1018.0
+  },
+  {
+    "date": "202105121800",
+    "dateStandard": "UTC",
+    "unit": "ºC",
+    "address": "Calçada da Ajuda",
+    "coordinates": {
+      "lng": -9.199692206,
+      "x": -92781.0,
+      "y": -106663.0,
+      "z": 0.0,
+      "lat": 38.70263097
+    },
+    "id": "METEMP0001",
+    "value": 18.9
+  },
+  {
+    "date": "202105121800",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Restelo - Rua Gonçalo Velho Cabral",
+    "coordinates": {
+      "lng": -9.20915802,
+      "x": -93600.6515,
+      "y": -106330.6078,
+      "z": 0.0,
+      "lat": 38.70553838
+    },
+    "id": "QA0NO20002",
+    "value": 40.0
+  },
+  {
+    "date": "202105121800",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Restelo - Rua Gonçalo Velho Cabral",
+    "coordinates": {
+      "lng": -9.20915802,
+      "x": -93600.6515,
+      "y": -106330.6078,
+      "z": 0.0,
+      "lat": 38.70553838
+    },
+    "id": "QA00O30002",
+    "value": 100.0
+  },
+  {
+    "date": "202105120000",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Restelo - Rua Gonçalo Velho Cabral",
+    "coordinates": {
+      "lng": -9.20915802,
+      "x": -93600.6515,
+      "y": -106330.6078,
+      "z": 0.0,
+      "lat": 38.70553838
+    },
+    "id": "QAPM100002",
+    "value": 26.0
+  },
+  {
+    "date": "202105121600",
+    "dateStandard": "UTC",
+    "unit": "mg/m3",
+    "address": "Restelo - Rua Gonçalo Velho Cabral",
+    "coordinates": {
+      "lng": -9.20915802,
+      "x": -93600.6515,
+      "y": -106330.6078,
+      "z": 0.0,
+      "lat": 38.70553838
+    },
+    "id": "QA00CO0002",
+    "value": 0.0219
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "dB(A)",
+    "address": "Restelo - Rua Gonçalo Velho Cabral",
+    "coordinates": {
+      "lng": -9.20915802,
+      "x": -93600.6515,
+      "y": -106330.6078,
+      "z": 0.0,
+      "lat": 38.70553838
+    },
+    "id": "RULAEQ0002",
+    "value": 53.0
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "mbar",
+    "address": "Restelo - Rua Gonçalo Velho Cabral",
+    "coordinates": {
+      "lng": -9.20915802,
+      "x": -93600.6515,
+      "y": -106330.6078,
+      "z": 0.0,
+      "lat": 38.70553838
+    },
+    "id": "ME00PA0002",
+    "value": 1014.0
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "ºC",
+    "address": "Restelo - Rua Gonçalo Velho Cabral",
+    "coordinates": {
+      "lng": -9.20915802,
+      "x": -93600.6515,
+      "y": -106330.6078,
+      "z": 0.0,
+      "lat": 38.70553838
+    },
+    "id": "METEMP0002",
+    "value": 19.7
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Cais do Sodré",
+    "coordinates": {
+      "lng": -9.143602756,
+      "x": -87898.5002957,
+      "y": -106426.059635,
+      "z": 0.0,
+      "lat": 38.7052635
+    },
+    "id": "QA00O30003",
+    "value": 2.0
+  },
+  {
+    "date": "202105120000",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Cais do Sodré",
+    "coordinates": {
+      "lng": -9.143602756,
+      "x": -87898.5002957,
+      "y": -106426.059635,
+      "z": 0.0,
+      "lat": 38.7052635
+    },
+    "id": "QAPM100003",
+    "value": 16.0
+  },
+  {
+    "date": "202105121600",
+    "dateStandard": "UTC",
+    "unit": "mg/m3",
+    "address": "Cais do Sodré",
+    "coordinates": {
+      "lng": -9.143602756,
+      "x": -87898.5002957,
+      "y": -106426.059635,
+      "z": 0.0,
+      "lat": 38.7052635
+    },
+    "id": "QA00CO0003",
+    "value": 0.034
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "dB(A)",
+    "address": "Cais do Sodré",
+    "coordinates": {
+      "lng": -9.143602756,
+      "x": -87898.5002957,
+      "y": -106426.059635,
+      "z": 0.0,
+      "lat": 38.7052635
+    },
+    "id": "RULAEQ0003",
+    "value": 54.0
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "mbar",
+    "address": "Cais do Sodré",
+    "coordinates": {
+      "lng": -9.143602756,
+      "x": -87898.5002957,
+      "y": -106426.059635,
+      "z": 0.0,
+      "lat": 38.7052635
+    },
+    "id": "ME00PA0003",
+    "value": 1020.0
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "ºC",
+    "address": "Cais do Sodré",
+    "coordinates": {
+      "lng": -9.143602756,
+      "x": -87898.5002957,
+      "y": -106426.059635,
+      "z": 0.0,
+      "lat": 38.7052635
+    },
+    "id": "METEMP0003",
+    "value": 20.7
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Alcântara - Rua dos Lusíadas",
+    "coordinates": {
+      "lng": -9.179135475,
+      "x": -90989.1053,
+      "y": -106364.6055,
+      "z": 0.0,
+      "lat": 38.70550458
+    },
+    "id": "QA0NO20004",
+    "value": 9.0
+  },
+  {
+    "date": "202105120000",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Alcântara - Rua dos Lusíadas",
+    "coordinates": {
+      "lng": -9.179135475,
+      "x": -90989.1053,
+      "y": -106364.6055,
+      "z": 0.0,
+      "lat": 38.70550458
+    },
+    "id": "QAPM100004",
+    "value": 22.0
+  },
+  {
+    "date": "202105121600",
+    "dateStandard": "UTC",
+    "unit": "mg/m3",
+    "address": "Alcântara - Rua dos Lusíadas",
+    "coordinates": {
+      "lng": -9.179135475,
+      "x": -90989.1053,
+      "y": -106364.6055,
+      "z": 0.0,
+      "lat": 38.70550458
+    },
+    "id": "QA00CO0004",
+    "value": 0.1782
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "dB(A)",
+    "address": "Alcântara - Rua dos Lusíadas",
+    "coordinates": {
+      "lng": -9.179135475,
+      "x": -90989.1053,
+      "y": -106364.6055,
+      "z": 0.0,
+      "lat": 38.70550458
+    },
+    "id": "RULAEQ0004",
+    "value": 67.0
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "mbar",
+    "address": "Alcântara - Rua dos Lusíadas",
+    "coordinates": {
+      "lng": -9.179135475,
+      "x": -90989.1053,
+      "y": -106364.6055,
+      "z": 0.0,
+      "lat": 38.70550458
+    },
+    "id": "ME00PA0004",
+    "value": 1025.0
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "ºC",
+    "address": "Alcântara - Rua dos Lusíadas",
+    "coordinates": {
+      "lng": -9.179135475,
+      "x": -90989.1053,
+      "y": -106364.6055,
+      "z": 0.0,
+      "lat": 38.70550458
+    },
+    "id": "METEMP0004",
+    "value": 21.0
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Santa Apolónia - Avenida Infante Dom Henrique",
+    "coordinates": {
+      "lng": -9.123678666,
+      "x": -86150.5924153,
+      "y": -105527.272627,
+      "z": 0.0,
+      "lat": 38.71271031
+    },
+    "id": "QA0NO20007",
+    "value": 183.0
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Santa Apolónia - Avenida Infante Dom Henrique",
+    "coordinates": {
+      "lng": -9.123678666,
+      "x": -86150.5924153,
+      "y": -105527.272627,
+      "z": 0.0,
+      "lat": 38.71271031
+    },
+    "id": "QA00O30007",
+    "value": 292.0
+  },
+  {
+    "date": "202105120000",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Santa Apolónia - Avenida Infante Dom Henrique",
+    "coordinates": {
+      "lng": -9.123678666,
+      "x": -86150.5924153,
+      "y": -105527.272627,
+      "z": 0.0,
+      "lat": 38.71271031
+    },
+    "id": "QAPM100007",
+    "value": 24.0
+  },
+  {
+    "date": "202105120000",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Santa Apolónia - Avenida Infante Dom Henrique",
+    "coordinates": {
+      "lng": -9.123678666,
+      "x": -86150.5924153,
+      "y": -105527.272627,
+      "z": 0.0,
+      "lat": 38.71271031
+    },
+    "id": "QA0SO20007",
+    "value": 1.0
+  },
+  {
+    "date": "202105121600",
+    "dateStandard": "UTC",
+    "unit": "mg/m3",
+    "address": "Santa Apolónia - Avenida Infante Dom Henrique",
+    "coordinates": {
+      "lng": -9.123678666,
+      "x": -86150.5924153,
+      "y": -105527.272627,
+      "z": 0.0,
+      "lat": 38.71271031
+    },
+    "id": "QA00CO0007",
+    "value": 0.4043
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "dB(A)",
+    "address": "Santa Apolónia - Avenida Infante Dom Henrique",
+    "coordinates": {
+      "lng": -9.123678666,
+      "x": -86150.5924153,
+      "y": -105527.272627,
+      "z": 0.0,
+      "lat": 38.71271031
+    },
+    "id": "RULAEQ0007",
+    "value": 67.0
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "mbar",
+    "address": "Santa Apolónia - Avenida Infante Dom Henrique",
+    "coordinates": {
+      "lng": -9.123678666,
+      "x": -86150.5924153,
+      "y": -105527.272627,
+      "z": 0.0,
+      "lat": 38.71271031
+    },
+    "id": "ME00PA0007",
+    "value": 911.0
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "ºC",
+    "address": "Santa Apolónia - Avenida Infante Dom Henrique",
+    "coordinates": {
+      "lng": -9.123678666,
+      "x": -86150.5924153,
+      "y": -105527.272627,
+      "z": 0.0,
+      "lat": 38.71271031
+    },
+    "id": "METEMP0007",
+    "value": 19.2
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "km/h",
+    "address": "Santa Apolónia - Avenida Infante Dom Henrique",
+    "coordinates": {
+      "lng": -9.123678666,
+      "x": -86150.5924153,
+      "y": -105527.272627,
+      "z": 0.0,
+      "lat": 38.71271031
+    },
+    "id": "ME00VI0007",
+    "value": 2.0
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "º",
+    "address": "Santa Apolónia - Avenida Infante Dom Henrique",
+    "coordinates": {
+      "lng": -9.123678666,
+      "x": -86150.5924153,
+      "y": -105527.272627,
+      "z": 0.0,
+      "lat": 38.71271031
+    },
+    "id": "ME00VD0007",
+    "value": 300.1
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Alto da Ajuda - Rua Sá Nogueira",
+    "coordinates": {
+      "lng": -9.195077515,
+      "x": -92368.6953,
+      "y": -105730.1565,
+      "z": 0.0,
+      "lat": 38.7110759
+    },
+    "id": "QA0NO20010",
+    "value": 26.0
+  },
+  {
+    "date": "202105120000",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Alto da Ajuda - Rua Sá Nogueira",
+    "coordinates": {
+      "lng": -9.195077515,
+      "x": -92368.6953,
+      "y": -105730.1565,
+      "z": 0.0,
+      "lat": 38.7110759
+    },
+    "id": "QAPM100010",
+    "value": 18.0
+  },
+  {
+    "date": "202105121600",
+    "dateStandard": "UTC",
+    "unit": "mg/m3",
+    "address": "Alto da Ajuda - Rua Sá Nogueira",
+    "coordinates": {
+      "lng": -9.195077515,
+      "x": -92368.6953,
+      "y": -105730.1565,
+      "z": 0.0,
+      "lat": 38.7110759
+    },
+    "id": "QA00CO0010",
+    "value": 0.21
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Avenida de Ceuta",
+    "coordinates": {
+      "lng": -9.17514452,
+      "x": -90622.7279,
+      "y": -104679.5295,
+      "z": 0.0,
+      "lat": 38.72071916
+    },
+    "id": "QA0NO20011",
+    "value": 10.0
+  },
+  {
+    "date": "202105120000",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Avenida de Ceuta",
+    "coordinates": {
+      "lng": -9.17514452,
+      "x": -90622.7279,
+      "y": -104679.5295,
+      "z": 0.0,
+      "lat": 38.72071916
+    },
+    "id": "QAPM100011",
+    "value": 17.0
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "dB(A)",
+    "address": "Avenida de Ceuta",
+    "coordinates": {
+      "lng": -9.17514452,
+      "x": -90622.7279,
+      "y": -104679.5295,
+      "z": 0.0,
+      "lat": 38.72071916
+    },
+    "id": "RULAEQ0011",
+    "value": 61.0
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "mbar",
+    "address": "Avenida de Ceuta",
+    "coordinates": {
+      "lng": -9.17514452,
+      "x": -90622.7279,
+      "y": -104679.5295,
+      "z": 0.0,
+      "lat": 38.72071916
+    },
+    "id": "ME00PA0011",
+    "value": 1020.0
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "ºC",
+    "address": "Avenida de Ceuta",
+    "coordinates": {
+      "lng": -9.17514452,
+      "x": -90622.7279,
+      "y": -104679.5295,
+      "z": 0.0,
+      "lat": 38.72071916
+    },
+    "id": "METEMP0011",
+    "value": 19.9
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Rua de São Bento",
+    "coordinates": {
+      "lng": -9.153285525,
+      "x": -88730.0222,
+      "y": -105450.5565,
+      "z": 0.0,
+      "lat": 38.71396664
+    },
+    "id": "QA0NO20012",
+    "value": 31.0
+  },
+  {
+    "date": "202105121600",
+    "dateStandard": "UTC",
+    "unit": "mg/m3",
+    "address": "Rua de São Bento",
+    "coordinates": {
+      "lng": -9.153285525,
+      "x": -88730.0222,
+      "y": -105450.5565,
+      "z": 0.0,
+      "lat": 38.71396664
+    },
+    "id": "QA00CO0012",
+    "value": 0.2345
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "dB(A)",
+    "address": "Rua de São Bento",
+    "coordinates": {
+      "lng": -9.153285525,
+      "x": -88730.0222,
+      "y": -105450.5565,
+      "z": 0.0,
+      "lat": 38.71396664
+    },
+    "id": "RULAEQ0012",
+    "value": 70.0
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "mbar",
+    "address": "Rua de São Bento",
+    "coordinates": {
+      "lng": -9.153285525,
+      "x": -88730.0222,
+      "y": -105450.5565,
+      "z": 0.0,
+      "lat": 38.71396664
+    },
+    "id": "ME00PA0012",
+    "value": 1025.0
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "ºC",
+    "address": "Rua de São Bento",
+    "coordinates": {
+      "lng": -9.153285525,
+      "x": -88730.0222,
+      "y": -105450.5565,
+      "z": 0.0,
+      "lat": 38.71396664
+    },
+    "id": "METEMP0012",
+    "value": 23.7
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Praça Martim Moniz",
+    "coordinates": {
+      "lng": -9.1360873,
+      "x": -87232.5135,
+      "y": -105315.7198,
+      "z": 0.0,
+      "lat": 38.71533003
+    },
+    "id": "QA00O30014",
+    "value": 30.0
+  },
+  {
+    "date": "202105120000",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Praça Martim Moniz",
+    "coordinates": {
+      "lng": -9.1360873,
+      "x": -87232.5135,
+      "y": -105315.7198,
+      "z": 0.0,
+      "lat": 38.71533003
+    },
+    "id": "QAPM100014",
+    "value": 24.0
+  },
+  {
+    "date": "202105120000",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Praça Martim Moniz",
+    "coordinates": {
+      "lng": -9.1360873,
+      "x": -87232.5135,
+      "y": -105315.7198,
+      "z": 0.0,
+      "lat": 38.71533003
+    },
+    "id": "QA0SO20014",
+    "value": 13.0
+  },
+  {
+    "date": "202105121600",
+    "dateStandard": "UTC",
+    "unit": "mg/m3",
+    "address": "Praça Martim Moniz",
+    "coordinates": {
+      "lng": -9.1360873,
+      "x": -87232.5135,
+      "y": -105315.7198,
+      "z": 0.0,
+      "lat": 38.71533003
+    },
+    "id": "QA00CO0014",
+    "value": 0.0371
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "dB(A)",
+    "address": "Praça Martim Moniz",
+    "coordinates": {
+      "lng": -9.1360873,
+      "x": -87232.5135,
+      "y": -105315.7198,
+      "z": 0.0,
+      "lat": 38.71533003
+    },
+    "id": "RULAEQ0014",
+    "value": 53.0
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "mbar",
+    "address": "Praça Martim Moniz",
+    "coordinates": {
+      "lng": -9.1360873,
+      "x": -87232.5135,
+      "y": -105315.7198,
+      "z": 0.0,
+      "lat": 38.71533003
+    },
+    "id": "ME00PA0014",
+    "value": 1020.0
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "ºC",
+    "address": "Praça Martim Moniz",
+    "coordinates": {
+      "lng": -9.1360873,
+      "x": -87232.5135,
+      "y": -105315.7198,
+      "z": 0.0,
+      "lat": 38.71533003
+    },
+    "id": "METEMP0014",
+    "value": 20.9
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Cemitério dos Prazeres",
+    "coordinates": {
+      "lng": -9.171112565,
+      "x": -90280.9102,
+      "y": -105463.342,
+      "z": 0.0,
+      "lat": 38.71369455
+    },
+    "id": "QA0NO20016",
+    "value": 13.0
+  },
+  {
+    "date": "202105120000",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Cemitério dos Prazeres",
+    "coordinates": {
+      "lng": -9.171112565,
+      "x": -90280.9102,
+      "y": -105463.342,
+      "z": 0.0,
+      "lat": 38.71369455
+    },
+    "id": "QAPM100016",
+    "value": 14.0
+  },
+  {
+    "date": "202105121600",
+    "dateStandard": "UTC",
+    "unit": "mg/m3",
+    "address": "Cemitério dos Prazeres",
+    "coordinates": {
+      "lng": -9.171112565,
+      "x": -90280.9102,
+      "y": -105463.342,
+      "z": 0.0,
+      "lat": 38.71369455
+    },
+    "id": "QA00CO0016",
+    "value": 0.181
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "mbar",
+    "address": "Cemitério dos Prazeres",
+    "coordinates": {
+      "lng": -9.171112565,
+      "x": -90280.9102,
+      "y": -105463.342,
+      "z": 0.0,
+      "lat": 38.71369455
+    },
+    "id": "ME00PA0016",
+    "value": 1024.0
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "ºC",
+    "address": "Cemitério dos Prazeres",
+    "coordinates": {
+      "lng": -9.171112565,
+      "x": -90280.9102,
+      "y": -105463.342,
+      "z": 0.0,
+      "lat": 38.71369455
+    },
+    "id": "METEMP0016",
+    "value": 20.6
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Parque de Campismo de Lisboa",
+    "coordinates": {
+      "lng": -9.207074661,
+      "x": -93395.7023929,
+      "y": -104309.46051,
+      "z": 0.0,
+      "lat": 38.72376372
+    },
+    "id": "QA0NO20018",
+    "value": 18.0
+  },
+  {
+    "date": "202105120000",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Parque de Campismo de Lisboa",
+    "coordinates": {
+      "lng": -9.207074661,
+      "x": -93395.7023929,
+      "y": -104309.46051,
+      "z": 0.0,
+      "lat": 38.72376372
+    },
+    "id": "QAPM100018",
+    "value": 12.0
+  },
+  {
+    "date": "202105121600",
+    "dateStandard": "UTC",
+    "unit": "mg/m3",
+    "address": "Parque de Campismo de Lisboa",
+    "coordinates": {
+      "lng": -9.207074661,
+      "x": -93395.7023929,
+      "y": -104309.46051,
+      "z": 0.0,
+      "lat": 38.72376372
+    },
+    "id": "QA00CO0018",
+    "value": 0.1641
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "dB(A)",
+    "address": "Parque de Campismo de Lisboa",
+    "coordinates": {
+      "lng": -9.207074661,
+      "x": -93395.7023929,
+      "y": -104309.46051,
+      "z": 0.0,
+      "lat": 38.72376372
+    },
+    "id": "RULAEQ0018",
+    "value": 62.0
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "mbar",
+    "address": "Parque de Campismo de Lisboa",
+    "coordinates": {
+      "lng": -9.207074661,
+      "x": -93395.7023929,
+      "y": -104309.46051,
+      "z": 0.0,
+      "lat": 38.72376372
+    },
+    "id": "ME00PA0018",
+    "value": 1023.0
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "ºC",
+    "address": "Parque de Campismo de Lisboa",
+    "coordinates": {
+      "lng": -9.207074661,
+      "x": -93395.7023929,
+      "y": -104309.46051,
+      "z": 0.0,
+      "lat": 38.72376372
+    },
+    "id": "METEMP0018",
+    "value": 19.5
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Monsanto - Alameda Keil do Amaral",
+    "coordinates": {
+      "lng": -9.195513512,
+      "x": -92395.0,
+      "y": -104728.0,
+      "z": 0.0,
+      "lat": 38.72009921
+    },
+    "id": "QA0NO20019",
+    "value": 102.0
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Monsanto - Alameda Keil do Amaral",
+    "coordinates": {
+      "lng": -9.195513512,
+      "x": -92395.0,
+      "y": -104728.0,
+      "z": 0.0,
+      "lat": 38.72009921
+    },
+    "id": "QA00O30019",
+    "value": 75.0
+  },
+  {
+    "date": "202105120000",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Monsanto - Alameda Keil do Amaral",
+    "coordinates": {
+      "lng": -9.195513512,
+      "x": -92395.0,
+      "y": -104728.0,
+      "z": 0.0,
+      "lat": 38.72009921
+    },
+    "id": "QAPM100019",
+    "value": 2.0
+  },
+  {
+    "date": "202105120000",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Monsanto - Alameda Keil do Amaral",
+    "coordinates": {
+      "lng": -9.195513512,
+      "x": -92395.0,
+      "y": -104728.0,
+      "z": 0.0,
+      "lat": 38.72009921
+    },
+    "id": "QA0SO20019",
+    "value": 13.0
+  },
+  {
+    "date": "202105121600",
+    "dateStandard": "UTC",
+    "unit": "mg/m3",
+    "address": "Monsanto - Alameda Keil do Amaral",
+    "coordinates": {
+      "lng": -9.195513512,
+      "x": -92395.0,
+      "y": -104728.0,
+      "z": 0.0,
+      "lat": 38.72009921
+    },
+    "id": "QA00CO0019",
+    "value": 0.0954
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "dB(A)",
+    "address": "Monsanto - Alameda Keil do Amaral",
+    "coordinates": {
+      "lng": -9.195513512,
+      "x": -92395.0,
+      "y": -104728.0,
+      "z": 0.0,
+      "lat": 38.72009921
+    },
+    "id": "RULAEQ0019",
+    "value": 50.0
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "mbar",
+    "address": "Monsanto - Alameda Keil do Amaral",
+    "coordinates": {
+      "lng": -9.195513512,
+      "x": -92395.0,
+      "y": -104728.0,
+      "z": 0.0,
+      "lat": 38.72009921
+    },
+    "id": "ME00PA0019",
+    "value": 995.0
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "ºC",
+    "address": "Monsanto - Alameda Keil do Amaral",
+    "coordinates": {
+      "lng": -9.195513512,
+      "x": -92395.0,
+      "y": -104728.0,
+      "z": 0.0,
+      "lat": 38.72009921
+    },
+    "id": "METEMP0019",
+    "value": 19.6
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Avenida da Liberdade - Rua Manuel Jesus Coelho",
+    "coordinates": {
+      "lng": -9.146040679,
+      "x": -88091.2606,
+      "y": -104677.567772,
+      "z": 0.0,
+      "lat": 38.72099262
+    },
+    "id": "QA0NO20020",
+    "value": 15.0
+  },
+  {
+    "date": "202105120000",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Avenida da Liberdade - Rua Manuel Jesus Coelho",
+    "coordinates": {
+      "lng": -9.146040679,
+      "x": -88091.2606,
+      "y": -104677.567772,
+      "z": 0.0,
+      "lat": 38.72099262
+    },
+    "id": "QAPM100020",
+    "value": 12.0
+  },
+  {
+    "date": "202105121600",
+    "dateStandard": "UTC",
+    "unit": "mg/m3",
+    "address": "Avenida da Liberdade - Rua Manuel Jesus Coelho",
+    "coordinates": {
+      "lng": -9.146040679,
+      "x": -88091.2606,
+      "y": -104677.567772,
+      "z": 0.0,
+      "lat": 38.72099262
+    },
+    "id": "QA00CO0020",
+    "value": 0.1543
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "dB(A)",
+    "address": "Avenida da Liberdade - Rua Manuel Jesus Coelho",
+    "coordinates": {
+      "lng": -9.146040679,
+      "x": -88091.2606,
+      "y": -104677.567772,
+      "z": 0.0,
+      "lat": 38.72099262
+    },
+    "id": "RULAEQ0020",
+    "value": 66.0
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "mbar",
+    "address": "Avenida da Liberdade - Rua Manuel Jesus Coelho",
+    "coordinates": {
+      "lng": -9.146040679,
+      "x": -88091.2606,
+      "y": -104677.567772,
+      "z": 0.0,
+      "lat": 38.72099262
+    },
+    "id": "ME00PA0020",
+    "value": 1025.0
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "ºC",
+    "address": "Avenida da Liberdade - Rua Manuel Jesus Coelho",
+    "coordinates": {
+      "lng": -9.146040679,
+      "x": -88091.2606,
+      "y": -104677.567772,
+      "z": 0.0,
+      "lat": 38.72099262
+    },
+    "id": "METEMP0020",
+    "value": 19.6
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "mbar",
+    "address": "Monsanto - Parque Ecológico",
+    "coordinates": {
+      "lng": -9.186658409,
+      "x": -91599.1099218,
+      "y": -102497.814875,
+      "z": 0.0,
+      "lat": 38.74026849
+    },
+    "id": "ME00PA0025",
+    "value": 1024.0
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "ºC",
+    "address": "Monsanto - Parque Ecológico",
+    "coordinates": {
+      "lng": -9.186658409,
+      "x": -91599.1099218,
+      "y": -102497.814875,
+      "z": 0.0,
+      "lat": 38.74026849
+    },
+    "id": "METEMP0025",
+    "value": 20.0
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Parada Alto de São João",
+    "coordinates": {
+      "lng": -9.122189,
+      "x": -86007.1276,
+      "y": -103793.9521,
+      "z": 0.0,
+      "lat": 38.72915635
+    },
+    "id": "QA0NO20026",
+    "value": 12.0
+  },
+  {
+    "date": "202105120000",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Parada Alto de São João",
+    "coordinates": {
+      "lng": -9.122189,
+      "x": -86007.1276,
+      "y": -103793.9521,
+      "z": 0.0,
+      "lat": 38.72915635
+    },
+    "id": "QAPM100026",
+    "value": 17.0
+  },
+  {
+    "date": "202105121600",
+    "dateStandard": "UTC",
+    "unit": "mg/m3",
+    "address": "Parada Alto de São João",
+    "coordinates": {
+      "lng": -9.122189,
+      "x": -86007.1276,
+      "y": -103793.9521,
+      "z": 0.0,
+      "lat": 38.72915635
+    },
+    "id": "QA00CO0026",
+    "value": 0.191
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "mbar",
+    "address": "Parada Alto de São João",
+    "coordinates": {
+      "lng": -9.122189,
+      "x": -86007.1276,
+      "y": -103793.9521,
+      "z": 0.0,
+      "lat": 38.72915635
+    },
+    "id": "ME00PA0026",
+    "value": 1025.0
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "ºC",
+    "address": "Parada Alto de São João",
+    "coordinates": {
+      "lng": -9.122189,
+      "x": -86007.1276,
+      "y": -103793.9521,
+      "z": 0.0,
+      "lat": 38.72915635
+    },
+    "id": "METEMP0026",
+    "value": 20.8
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Beato - Avenida Infante Dom Henrique",
+    "coordinates": {
+      "lng": -9.107450823,
+      "x": -84726.0,
+      "y": -103853.0,
+      "z": 0.0,
+      "lat": 38.72874822
+    },
+    "id": "QA0NO20028",
+    "value": 1.0
+  },
+  {
+    "date": "202105120000",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Beato - Avenida Infante Dom Henrique",
+    "coordinates": {
+      "lng": -9.107450823,
+      "x": -84726.0,
+      "y": -103853.0,
+      "z": 0.0,
+      "lat": 38.72874822
+    },
+    "id": "QAPM100028",
+    "value": 19.0
+  },
+  {
+    "date": "202105121600",
+    "dateStandard": "UTC",
+    "unit": "mg/m3",
+    "address": "Beato - Avenida Infante Dom Henrique",
+    "coordinates": {
+      "lng": -9.107450823,
+      "x": -84726.0,
+      "y": -103853.0,
+      "z": 0.0,
+      "lat": 38.72874822
+    },
+    "id": "QA00CO0028",
+    "value": 0.1717
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "dB(A)",
+    "address": "Beato - Avenida Infante Dom Henrique",
+    "coordinates": {
+      "lng": -9.107450823,
+      "x": -84726.0,
+      "y": -103853.0,
+      "z": 0.0,
+      "lat": 38.72874822
+    },
+    "id": "RULAEQ0028",
+    "value": 53.0
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "mbar",
+    "address": "Beato - Avenida Infante Dom Henrique",
+    "coordinates": {
+      "lng": -9.107450823,
+      "x": -84726.0,
+      "y": -103853.0,
+      "z": 0.0,
+      "lat": 38.72874822
+    },
+    "id": "ME00PA0028",
+    "value": 1021.0
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "ºC",
+    "address": "Beato - Avenida Infante Dom Henrique",
+    "coordinates": {
+      "lng": -9.107450823,
+      "x": -84726.0,
+      "y": -103853.0,
+      "z": 0.0,
+      "lat": 38.72874822
+    },
+    "id": "METEMP0028",
+    "value": 20.4
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Largo da Madre de Deus",
+    "coordinates": {
+      "lng": -9.114811563,
+      "x": -85362.1995248,
+      "y": -103483.992963,
+      "z": 0.0,
+      "lat": 38.73201061
+    },
+    "id": "QA0NO20031",
+    "value": 204.0
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Largo da Madre de Deus",
+    "coordinates": {
+      "lng": -9.114811563,
+      "x": -85362.1995248,
+      "y": -103483.992963,
+      "z": 0.0,
+      "lat": 38.73201061
+    },
+    "id": "QA00O30031",
+    "value": 251.0
+  },
+  {
+    "date": "202105120000",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Largo da Madre de Deus",
+    "coordinates": {
+      "lng": -9.114811563,
+      "x": -85362.1995248,
+      "y": -103483.992963,
+      "z": 0.0,
+      "lat": 38.73201061
+    },
+    "id": "QAPM100031",
+    "value": 23.0
+  },
+  {
+    "date": "202105120000",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Largo da Madre de Deus",
+    "coordinates": {
+      "lng": -9.114811563,
+      "x": -85362.1995248,
+      "y": -103483.992963,
+      "z": 0.0,
+      "lat": 38.73201061
+    },
+    "id": "QA0SO20031",
+    "value": 13.0
+  },
+  {
+    "date": "202105121600",
+    "dateStandard": "UTC",
+    "unit": "mg/m3",
+    "address": "Largo da Madre de Deus",
+    "coordinates": {
+      "lng": -9.114811563,
+      "x": -85362.1995248,
+      "y": -103483.992963,
+      "z": 0.0,
+      "lat": 38.73201061
+    },
+    "id": "QA00CO0031",
+    "value": 0.3254
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "dB(A)",
+    "address": "Largo da Madre de Deus",
+    "coordinates": {
+      "lng": -9.114811563,
+      "x": -85362.1995248,
+      "y": -103483.992963,
+      "z": 0.0,
+      "lat": 38.73201061
+    },
+    "id": "RULAEQ0031",
+    "value": 62.0
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "mbar",
+    "address": "Largo da Madre de Deus",
+    "coordinates": {
+      "lng": -9.114811563,
+      "x": -85362.1995248,
+      "y": -103483.992963,
+      "z": 0.0,
+      "lat": 38.73201061
+    },
+    "id": "ME00PA0031",
+    "value": 1011.0
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "ºC",
+    "address": "Largo da Madre de Deus",
+    "coordinates": {
+      "lng": -9.114811563,
+      "x": -85362.1995248,
+      "y": -103483.992963,
+      "z": 0.0,
+      "lat": 38.73201061
+    },
+    "id": "METEMP0031",
+    "value": 20.0
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Rua de Campolide",
+    "coordinates": {
+      "lng": -9.162756915,
+      "x": -89530.5767,
+      "y": -103374.27,
+      "z": 0.0,
+      "lat": 38.73258651
+    },
+    "id": "QA0NO20032",
+    "value": 21.0
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Rua de Campolide",
+    "coordinates": {
+      "lng": -9.162756915,
+      "x": -89530.5767,
+      "y": -103374.27,
+      "z": 0.0,
+      "lat": 38.73258651
+    },
+    "id": "QA00O30032",
+    "value": 80.0
+  },
+  {
+    "date": "202105120000",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Rua de Campolide",
+    "coordinates": {
+      "lng": -9.162756915,
+      "x": -89530.5767,
+      "y": -103374.27,
+      "z": 0.0,
+      "lat": 38.73258651
+    },
+    "id": "QAPM100032",
+    "value": 18.0
+  },
+  {
+    "date": "202105121600",
+    "dateStandard": "UTC",
+    "unit": "mg/m3",
+    "address": "Rua de Campolide",
+    "coordinates": {
+      "lng": -9.162756915,
+      "x": -89530.5767,
+      "y": -103374.27,
+      "z": 0.0,
+      "lat": 38.73258651
+    },
+    "id": "QA00CO0032",
+    "value": 0.1719
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "dB(A)",
+    "address": "Rua de Campolide",
+    "coordinates": {
+      "lng": -9.162756915,
+      "x": -89530.5767,
+      "y": -103374.27,
+      "z": 0.0,
+      "lat": 38.73258651
+    },
+    "id": "RULAEQ0032",
+    "value": 66.0
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "mbar",
+    "address": "Rua de Campolide",
+    "coordinates": {
+      "lng": -9.162756915,
+      "x": -89530.5767,
+      "y": -103374.27,
+      "z": 0.0,
+      "lat": 38.73258651
+    },
+    "id": "ME00PA0032",
+    "value": 1023.0
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "ºC",
+    "address": "Rua de Campolide",
+    "coordinates": {
+      "lng": -9.162756915,
+      "x": -89530.5767,
+      "y": -103374.27,
+      "z": 0.0,
+      "lat": 38.73258651
+    },
+    "id": "METEMP0032",
+    "value": 20.2
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Avenida da Républica",
+    "coordinates": {
+      "lng": -9.145660419,
+      "x": -88039.8519,
+      "y": -103019.5149,
+      "z": 0.0,
+      "lat": 38.73593143
+    },
+    "id": "QA0NO20034",
+    "value": 137.0
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Avenida da Républica",
+    "coordinates": {
+      "lng": -9.145660419,
+      "x": -88039.8519,
+      "y": -103019.5149,
+      "z": 0.0,
+      "lat": 38.73593143
+    },
+    "id": "QA00O30034",
+    "value": 216.0
+  },
+  {
+    "date": "202105120000",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Avenida da Républica",
+    "coordinates": {
+      "lng": -9.145660419,
+      "x": -88039.8519,
+      "y": -103019.5149,
+      "z": 0.0,
+      "lat": 38.73593143
+    },
+    "id": "QAPM100034",
+    "value": 30.0
+  },
+  {
+    "date": "202105120000",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Avenida da Républica",
+    "coordinates": {
+      "lng": -9.145660419,
+      "x": -88039.8519,
+      "y": -103019.5149,
+      "z": 0.0,
+      "lat": 38.73593143
+    },
+    "id": "QA0SO20034",
+    "value": 13.0
+  },
+  {
+    "date": "202105121600",
+    "dateStandard": "UTC",
+    "unit": "mg/m3",
+    "address": "Avenida da Républica",
+    "coordinates": {
+      "lng": -9.145660419,
+      "x": -88039.8519,
+      "y": -103019.5149,
+      "z": 0.0,
+      "lat": 38.73593143
+    },
+    "id": "QA00CO0034",
+    "value": 0.5048
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "dB(A)",
+    "address": "Avenida da Républica",
+    "coordinates": {
+      "lng": -9.145660419,
+      "x": -88039.8519,
+      "y": -103019.5149,
+      "z": 0.0,
+      "lat": 38.73593143
+    },
+    "id": "RULAEQ0034",
+    "value": 79.0
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "mbar",
+    "address": "Avenida da Républica",
+    "coordinates": {
+      "lng": -9.145660419,
+      "x": -88039.8519,
+      "y": -103019.5149,
+      "z": 0.0,
+      "lat": 38.73593143
+    },
+    "id": "ME00PA0034",
+    "value": 1010.0
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "ºC",
+    "address": "Avenida da Républica",
+    "coordinates": {
+      "lng": -9.145660419,
+      "x": -88039.8519,
+      "y": -103019.5149,
+      "z": 0.0,
+      "lat": 38.73593143
+    },
+    "id": "METEMP0034",
+    "value": 20.7
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Travessa de Francisco Rezende",
+    "coordinates": {
+      "lng": -9.19429606,
+      "x": -92258.9756,
+      "y": -102128.3935,
+      "z": 0.0,
+      "lat": 38.74352708
+    },
+    "id": "QA0NO20042",
+    "value": 25.0
+  },
+  {
+    "date": "202105120000",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Travessa de Francisco Rezende",
+    "coordinates": {
+      "lng": -9.19429606,
+      "x": -92258.9756,
+      "y": -102128.3935,
+      "z": 0.0,
+      "lat": 38.74352708
+    },
+    "id": "QAPM100042",
+    "value": 15.0
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "dB(A)",
+    "address": "Travessa de Francisco Rezende",
+    "coordinates": {
+      "lng": -9.19429606,
+      "x": -92258.9756,
+      "y": -102128.3935,
+      "z": 0.0,
+      "lat": 38.74352708
+    },
+    "id": "RULAEQ0042",
+    "value": 60.0
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "mbar",
+    "address": "Travessa de Francisco Rezende",
+    "coordinates": {
+      "lng": -9.19429606,
+      "x": -92258.9756,
+      "y": -102128.3935,
+      "z": 0.0,
+      "lat": 38.74352708
+    },
+    "id": "ME00PA0042",
+    "value": 1026.0
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "ºC",
+    "address": "Travessa de Francisco Rezende",
+    "coordinates": {
+      "lng": -9.19429606,
+      "x": -92258.9756,
+      "y": -102128.3935,
+      "z": 0.0,
+      "lat": 38.74352708
+    },
+    "id": "METEMP0042",
+    "value": 21.9
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Rua Frei Carlos",
+    "coordinates": {
+      "lng": -9.157080438,
+      "x": -89021.0,
+      "y": -101951.0,
+      "z": 0.0,
+      "lat": 38.74545696
+    },
+    "id": "QA0NO20045",
+    "value": 19.0
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Rua Frei Carlos",
+    "coordinates": {
+      "lng": -9.157080438,
+      "x": -89021.0,
+      "y": -101951.0,
+      "z": 0.0,
+      "lat": 38.74545696
+    },
+    "id": "QA00O30045",
+    "value": 82.0
+  },
+  {
+    "date": "202105120000",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Rua Frei Carlos",
+    "coordinates": {
+      "lng": -9.157080438,
+      "x": -89021.0,
+      "y": -101951.0,
+      "z": 0.0,
+      "lat": 38.74545696
+    },
+    "id": "QAPM100045",
+    "value": 18.0
+  },
+  {
+    "date": "202105121600",
+    "dateStandard": "UTC",
+    "unit": "mg/m3",
+    "address": "Rua Frei Carlos",
+    "coordinates": {
+      "lng": -9.157080438,
+      "x": -89021.0,
+      "y": -101951.0,
+      "z": 0.0,
+      "lat": 38.74545696
+    },
+    "id": "QA00CO0045",
+    "value": 0.2167
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "mbar",
+    "address": "Rua Frei Carlos",
+    "coordinates": {
+      "lng": -9.157080438,
+      "x": -89021.0,
+      "y": -101951.0,
+      "z": 0.0,
+      "lat": 38.74545696
+    },
+    "id": "ME00PA0045",
+    "value": 1024.0
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "ºC",
+    "address": "Rua Frei Carlos",
+    "coordinates": {
+      "lng": -9.157080438,
+      "x": -89021.0,
+      "y": -101951.0,
+      "z": 0.0,
+      "lat": 38.74545696
+    },
+    "id": "METEMP0045",
+    "value": 21.8
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Entrecampos",
+    "coordinates": {
+      "lng": -9.148816683,
+      "x": -88298.4125452,
+      "y": -101585.429043,
+      "z": 0.0,
+      "lat": 38.74882206
+    },
+    "id": "QA0NO20046",
+    "value": 22.0
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Entrecampos",
+    "coordinates": {
+      "lng": -9.148816683,
+      "x": -88298.4125452,
+      "y": -101585.429043,
+      "z": 0.0,
+      "lat": 38.74882206
+    },
+    "id": "QA00O30046",
+    "value": 90.0
+  },
+  {
+    "date": "202105120000",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Entrecampos",
+    "coordinates": {
+      "lng": -9.148816683,
+      "x": -88298.4125452,
+      "y": -101585.429043,
+      "z": 0.0,
+      "lat": 38.74882206
+    },
+    "id": "QAPM100046",
+    "value": 20.0
+  },
+  {
+    "date": "202105121600",
+    "dateStandard": "UTC",
+    "unit": "mg/m3",
+    "address": "Entrecampos",
+    "coordinates": {
+      "lng": -9.148816683,
+      "x": -88298.4125452,
+      "y": -101585.429043,
+      "z": 0.0,
+      "lat": 38.74882206
+    },
+    "id": "QA00CO0046",
+    "value": 0.1576
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "dB(A)",
+    "address": "Entrecampos",
+    "coordinates": {
+      "lng": -9.148816683,
+      "x": -88298.4125452,
+      "y": -101585.429043,
+      "z": 0.0,
+      "lat": 38.74882206
+    },
+    "id": "RULAEQ0046",
+    "value": 71.0
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Chelas - Rua Dr. José Espirito Santo",
+    "coordinates": {
+      "lng": -9.10570629,
+      "x": -84546.2939,
+      "y": -101218.7354,
+      "z": 0.0,
+      "lat": 38.75249186
+    },
+    "id": "QA0NO20050",
+    "value": 3.0
+  },
+  {
+    "date": "202105120000",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Chelas - Rua Dr. José Espirito Santo",
+    "coordinates": {
+      "lng": -9.10570629,
+      "x": -84546.2939,
+      "y": -101218.7354,
+      "z": 0.0,
+      "lat": 38.75249186
+    },
+    "id": "QAPM100050",
+    "value": 22.0
+  },
+  {
+    "date": "202105121600",
+    "dateStandard": "UTC",
+    "unit": "mg/m3",
+    "address": "Chelas - Rua Dr. José Espirito Santo",
+    "coordinates": {
+      "lng": -9.10570629,
+      "x": -84546.2939,
+      "y": -101218.7354,
+      "z": 0.0,
+      "lat": 38.75249186
+    },
+    "id": "QA00CO0050",
+    "value": 0.2167
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "mbar",
+    "address": "Chelas - Rua Dr. José Espirito Santo",
+    "coordinates": {
+      "lng": -9.10570629,
+      "x": -84546.2939,
+      "y": -101218.7354,
+      "z": 0.0,
+      "lat": 38.75249186
+    },
+    "id": "ME00PA0050",
+    "value": 1017.0
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "ºC",
+    "address": "Chelas - Rua Dr. José Espirito Santo",
+    "coordinates": {
+      "lng": -9.10570629,
+      "x": -84546.2939,
+      "y": -101218.7354,
+      "z": 0.0,
+      "lat": 38.75249186
+    },
+    "id": "METEMP0050",
+    "value": 22.1
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "km/h",
+    "address": "Chelas - Rua Dr. José Espirito Santo",
+    "coordinates": {
+      "lng": -9.10570629,
+      "x": -84546.2939,
+      "y": -101218.7354,
+      "z": 0.0,
+      "lat": 38.75249186
+    },
+    "id": "ME00VI0050",
+    "value": 18.9
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "º",
+    "address": "Chelas - Rua Dr. José Espirito Santo",
+    "coordinates": {
+      "lng": -9.10570629,
+      "x": -84546.2939,
+      "y": -101218.7354,
+      "z": 0.0,
+      "lat": 38.75249186
+    },
+    "id": "ME00VD0050",
+    "value": 300.0
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Parque da Vinha - Estação Meteorológica",
+    "coordinates": {
+      "lng": -9.127050234,
+      "x": -86390.3012,
+      "y": -100146.7938,
+      "z": 0.0,
+      "lat": 38.76196817
+    },
+    "id": "QA0NO20059",
+    "value": 6.0
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Parque da Vinha - Estação Meteorológica",
+    "coordinates": {
+      "lng": -9.127050234,
+      "x": -86390.3012,
+      "y": -100146.7938,
+      "z": 0.0,
+      "lat": 38.76196817
+    },
+    "id": "QA00O30059",
+    "value": 82.0
+  },
+  {
+    "date": "202105120000",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Parque da Vinha - Estação Meteorológica",
+    "coordinates": {
+      "lng": -9.127050234,
+      "x": -86390.3012,
+      "y": -100146.7938,
+      "z": 0.0,
+      "lat": 38.76196817
+    },
+    "id": "QAPM100059",
+    "value": 18.0
+  },
+  {
+    "date": "202105121600",
+    "dateStandard": "UTC",
+    "unit": "mg/m3",
+    "address": "Parque da Vinha - Estação Meteorológica",
+    "coordinates": {
+      "lng": -9.127050234,
+      "x": -86390.3012,
+      "y": -100146.7938,
+      "z": 0.0,
+      "lat": 38.76196817
+    },
+    "id": "QA00CO0059",
+    "value": 0.1914
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Olivais Sul - Quinta Pedagógica",
+    "coordinates": {
+      "lng": -9.111783853,
+      "x": -85061.7123,
+      "y": -100006.3866,
+      "z": 0.0,
+      "lat": 38.76336177
+    },
+    "id": "QA0NO20060",
+    "value": 10.0
+  },
+  {
+    "date": "202105120000",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Olivais Sul - Quinta Pedagógica",
+    "coordinates": {
+      "lng": -9.111783853,
+      "x": -85061.7123,
+      "y": -100006.3866,
+      "z": 0.0,
+      "lat": 38.76336177
+    },
+    "id": "QAPM100060",
+    "value": 6.0
+  },
+  {
+    "date": "202105121600",
+    "dateStandard": "UTC",
+    "unit": "mg/m3",
+    "address": "Olivais Sul - Quinta Pedagógica",
+    "coordinates": {
+      "lng": -9.111783853,
+      "x": -85061.7123,
+      "y": -100006.3866,
+      "z": 0.0,
+      "lat": 38.76336177
+    },
+    "id": "QA00CO0060",
+    "value": 0.169
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "mbar",
+    "address": "Olivais Sul - Quinta Pedagógica",
+    "coordinates": {
+      "lng": -9.111783853,
+      "x": -85061.7123,
+      "y": -100006.3866,
+      "z": 0.0,
+      "lat": 38.76336177
+    },
+    "id": "ME00PA0060",
+    "value": 1023.0
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "ºC",
+    "address": "Olivais Sul - Quinta Pedagógica",
+    "coordinates": {
+      "lng": -9.111783853,
+      "x": -85061.7123,
+      "y": -100006.3866,
+      "z": 0.0,
+      "lat": 38.76336177
+    },
+    "id": "METEMP0060",
+    "value": 21.0
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Estrada Militar",
+    "coordinates": {
+      "lng": -9.187269711,
+      "x": -91608.0409,
+      "y": -98658.5229,
+      "z": 0.0,
+      "lat": 38.77484653
+    },
+    "id": "QA0NO20063",
+    "value": 9.0
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Estrada Militar",
+    "coordinates": {
+      "lng": -9.187269711,
+      "x": -91608.0409,
+      "y": -98658.5229,
+      "z": 0.0,
+      "lat": 38.77484653
+    },
+    "id": "QA00O30063",
+    "value": 82.0
+  },
+  {
+    "date": "202105120000",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Estrada Militar",
+    "coordinates": {
+      "lng": -9.187269711,
+      "x": -91608.0409,
+      "y": -98658.5229,
+      "z": 0.0,
+      "lat": 38.77484653
+    },
+    "id": "QAPM100063",
+    "value": 17.0
+  },
+  {
+    "date": "202105121600",
+    "dateStandard": "UTC",
+    "unit": "mg/m3",
+    "address": "Estrada Militar",
+    "coordinates": {
+      "lng": -9.187269711,
+      "x": -91608.0409,
+      "y": -98658.5229,
+      "z": 0.0,
+      "lat": 38.77484653
+    },
+    "id": "QA00CO0063",
+    "value": 0.1803
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "mbar",
+    "address": "Estrada Militar",
+    "coordinates": {
+      "lng": -9.187269711,
+      "x": -91608.0409,
+      "y": -98658.5229,
+      "z": 0.0,
+      "lat": 38.77484653
+    },
+    "id": "ME00PA0063",
+    "value": 1024.0
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "ºC",
+    "address": "Estrada Militar",
+    "coordinates": {
+      "lng": -9.187269711,
+      "x": -91608.0409,
+      "y": -98658.5229,
+      "z": 0.0,
+      "lat": 38.77484653
+    },
+    "id": "METEMP0063",
+    "value": 19.6
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Rua Ilha dos Amores",
+    "coordinates": {
+      "lng": -9.092944984,
+      "x": -83407.2181,
+      "y": -98395.952,
+      "z": 0.0,
+      "lat": 38.77802453
+    },
+    "id": "QA0NO20066",
+    "value": 12.0
+  },
+  {
+    "date": "202105121600",
+    "dateStandard": "UTC",
+    "unit": "mg/m3",
+    "address": "Rua Ilha dos Amores",
+    "coordinates": {
+      "lng": -9.092944984,
+      "x": -83407.2181,
+      "y": -98395.952,
+      "z": 0.0,
+      "lat": 38.77802453
+    },
+    "id": "QA00CO0066",
+    "value": 0.1882
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "dB(A)",
+    "address": "Rua Ilha dos Amores",
+    "coordinates": {
+      "lng": -9.092944984,
+      "x": -83407.2181,
+      "y": -98395.952,
+      "z": 0.0,
+      "lat": 38.77802453
+    },
+    "id": "RULAEQ0066",
+    "value": 57.0
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "mbar",
+    "address": "Rua Ilha dos Amores",
+    "coordinates": {
+      "lng": -9.092944984,
+      "x": -83407.2181,
+      "y": -98395.952,
+      "z": 0.0,
+      "lat": 38.77802453
+    },
+    "id": "ME00PA0066",
+    "value": 1025.0
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "ºC",
+    "address": "Rua Ilha dos Amores",
+    "coordinates": {
+      "lng": -9.092944984,
+      "x": -83407.2181,
+      "y": -98395.952,
+      "z": 0.0,
+      "lat": 38.77802453
+    },
+    "id": "METEMP0066",
+    "value": 22.1
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Rua Vasco da Gama Fernandes",
+    "coordinates": {
+      "lng": -9.144679191,
+      "x": -87903.1571567,
+      "y": -98372.5310825,
+      "z": 0.0,
+      "lat": 38.77779913
+    },
+    "id": "QA0NO20067",
+    "value": 6.0
+  },
+  {
+    "date": "202105121600",
+    "dateStandard": "UTC",
+    "unit": "mg/m3",
+    "address": "Rua Vasco da Gama Fernandes",
+    "coordinates": {
+      "lng": -9.144679191,
+      "x": -87903.1571567,
+      "y": -98372.5310825,
+      "z": 0.0,
+      "lat": 38.77779913
+    },
+    "id": "QA00CO0067",
+    "value": 0.162
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "mbar",
+    "address": "Rua Vasco da Gama Fernandes",
+    "coordinates": {
+      "lng": -9.144679191,
+      "x": -87903.1571567,
+      "y": -98372.5310825,
+      "z": 0.0,
+      "lat": 38.77779913
+    },
+    "id": "ME00PA0067",
+    "value": 1025.0
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "ºC",
+    "address": "Rua Vasco da Gama Fernandes",
+    "coordinates": {
+      "lng": -9.144679191,
+      "x": -87903.1571567,
+      "y": -98372.5310825,
+      "z": 0.0,
+      "lat": 38.77779913
+    },
+    "id": "METEMP0067",
+    "value": 23.0
+  },
+  {
+    "date": "202105120000",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Estrada Militar às Galinheiras",
+    "coordinates": {
+      "lng": -9.15050406,
+      "x": -88392.9253,
+      "y": -96891.6314,
+      "z": 0.0,
+      "lat": 38.79108817
+    },
+    "id": "QAPM100071",
+    "value": 15.0
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Rua Alferes Malheiro",
+    "coordinates": {
+      "lng": -9.134931138,
+      "x": -87078.9361,
+      "y": -100471.4716,
+      "z": 0.0,
+      "lat": 38.75897624
+    },
+    "id": "QA0NO20073",
+    "value": 14.0
+  },
+  {
+    "date": "202105120000",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Rua Alferes Malheiro",
+    "coordinates": {
+      "lng": -9.134931138,
+      "x": -87078.9361,
+      "y": -100471.4716,
+      "z": 0.0,
+      "lat": 38.75897624
+    },
+    "id": "QAPM100073",
+    "value": 15.0
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "dB(A)",
+    "address": "Rua Alferes Malheiro",
+    "coordinates": {
+      "lng": -9.134931138,
+      "x": -87078.9361,
+      "y": -100471.4716,
+      "z": 0.0,
+      "lat": 38.75897624
+    },
+    "id": "RULAEQ0073",
+    "value": 53.0
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "mbar",
+    "address": "Rua Alferes Malheiro",
+    "coordinates": {
+      "lng": -9.134931138,
+      "x": -87078.9361,
+      "y": -100471.4716,
+      "z": 0.0,
+      "lat": 38.75897624
+    },
+    "id": "ME00PA0073",
+    "value": 1025.0
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "ºC",
+    "address": "Rua Alferes Malheiro",
+    "coordinates": {
+      "lng": -9.134931138,
+      "x": -87078.9361,
+      "y": -100471.4716,
+      "z": 0.0,
+      "lat": 38.75897624
+    },
+    "id": "METEMP0073",
+    "value": 20.2
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Alameda Padre Álvaro Proença",
+    "coordinates": {
+      "lng": -9.20169705,
+      "x": -92895.6540286,
+      "y": -101540.553343,
+      "z": 0.0,
+      "lat": 38.7487548
+    },
+    "id": "QA0NO20075",
+    "value": 41.0
+  },
+  {
+    "date": "202105120000",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Alameda Padre Álvaro Proença",
+    "coordinates": {
+      "lng": -9.20169705,
+      "x": -92895.6540286,
+      "y": -101540.553343,
+      "z": 0.0,
+      "lat": 38.7487548
+    },
+    "id": "QAPM100075",
+    "value": 5.0
+  },
+  {
+    "date": "202105121600",
+    "dateStandard": "UTC",
+    "unit": "mg/m3",
+    "address": "Alameda Padre Álvaro Proença",
+    "coordinates": {
+      "lng": -9.20169705,
+      "x": -92895.6540286,
+      "y": -101540.553343,
+      "z": 0.0,
+      "lat": 38.7487548
+    },
+    "id": "QA00CO0075",
+    "value": 0.3219
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "dB(A)",
+    "address": "Alameda Padre Álvaro Proença",
+    "coordinates": {
+      "lng": -9.20169705,
+      "x": -92895.6540286,
+      "y": -101540.553343,
+      "z": 0.0,
+      "lat": 38.7487548
+    },
+    "id": "RULAEQ0075",
+    "value": 65.0
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "mbar",
+    "address": "Alameda Padre Álvaro Proença",
+    "coordinates": {
+      "lng": -9.20169705,
+      "x": -92895.6540286,
+      "y": -101540.553343,
+      "z": 0.0,
+      "lat": 38.7487548
+    },
+    "id": "ME00PA0075",
+    "value": 1026.0
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "ºC",
+    "address": "Alameda Padre Álvaro Proença",
+    "coordinates": {
+      "lng": -9.20169705,
+      "x": -92895.6540286,
+      "y": -101540.553343,
+      "z": 0.0,
+      "lat": 38.7487548
+    },
+    "id": "METEMP0075",
+    "value": 20.3
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Rua da Atalaia",
+    "coordinates": {
+      "lng": -9.145212878,
+      "x": -88028.3418889,
+      "y": -105499.540474,
+      "z": 0.0,
+      "lat": 38.71359556
+    },
+    "id": "QA0NO20077",
+    "value": 7.0
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "dB(A)",
+    "address": "Rua da Atalaia",
+    "coordinates": {
+      "lng": -9.145212878,
+      "x": -88028.3418889,
+      "y": -105499.540474,
+      "z": 0.0,
+      "lat": 38.71359556
+    },
+    "id": "RULAEQ0077",
+    "value": 64.0
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "mbar",
+    "address": "Rua da Atalaia",
+    "coordinates": {
+      "lng": -9.145212878,
+      "x": -88028.3418889,
+      "y": -105499.540474,
+      "z": 0.0,
+      "lat": 38.71359556
+    },
+    "id": "ME00PA0077",
+    "value": 1026.0
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "ºC",
+    "address": "Rua da Atalaia",
+    "coordinates": {
+      "lng": -9.145212878,
+      "x": -88028.3418889,
+      "y": -105499.540474,
+      "z": 0.0,
+      "lat": 38.71359556
+    },
+    "id": "METEMP0077",
+    "value": 21.3
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Jardim da Estrela",
+    "coordinates": {
+      "lng": -9.159338426,
+      "x": -89255.1331,
+      "y": -105323.8973,
+      "z": 0.0,
+      "lat": 38.71505459
+    },
+    "id": "QA0NO20078",
+    "value": 3.0
+  },
+  {
+    "date": "202105120000",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Jardim da Estrela",
+    "coordinates": {
+      "lng": -9.159338426,
+      "x": -89255.1331,
+      "y": -105323.8973,
+      "z": 0.0,
+      "lat": 38.71505459
+    },
+    "id": "QAPM100078",
+    "value": 18.0
+  },
+  {
+    "date": "202105121600",
+    "dateStandard": "UTC",
+    "unit": "mg/m3",
+    "address": "Jardim da Estrela",
+    "coordinates": {
+      "lng": -9.159338426,
+      "x": -89255.1331,
+      "y": -105323.8973,
+      "z": 0.0,
+      "lat": 38.71505459
+    },
+    "id": "QA00CO0078",
+    "value": 0.166
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "dB(A)",
+    "address": "Jardim da Estrela",
+    "coordinates": {
+      "lng": -9.159338426,
+      "x": -89255.1331,
+      "y": -105323.8973,
+      "z": 0.0,
+      "lat": 38.71505459
+    },
+    "id": "RULAEQ0078",
+    "value": 61.0
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "mbar",
+    "address": "Jardim da Estrela",
+    "coordinates": {
+      "lng": -9.159338426,
+      "x": -89255.1331,
+      "y": -105323.8973,
+      "z": 0.0,
+      "lat": 38.71505459
+    },
+    "id": "ME00PA0078",
+    "value": 1016.0
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "ºC",
+    "address": "Jardim da Estrela",
+    "coordinates": {
+      "lng": -9.159338426,
+      "x": -89255.1331,
+      "y": -105323.8973,
+      "z": 0.0,
+      "lat": 38.71505459
+    },
+    "id": "METEMP0078",
+    "value": 21.2
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "μg/m3",
+    "address": "Avenida Doutor Francisco Luís Gomes",
+    "coordinates": {
+      "lng": -9.107327912,
+      "x": -84666.8,
+      "y": -99295.3,
+      "z": 0.0,
+      "lat": 38.76980435
+    },
+    "id": "QA0NO20079",
+    "value": 8.0
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "mbar",
+    "address": "Avenida Doutor Francisco Luís Gomes",
+    "coordinates": {
+      "lng": -9.107327912,
+      "x": -84666.8,
+      "y": -99295.3,
+      "z": 0.0,
+      "lat": 38.76980435
+    },
+    "id": "ME00PA0079",
+    "value": 1024.0
+  },
+  {
+    "date": "202105121700",
+    "dateStandard": "UTC",
+    "unit": "ºC",
+    "address": "Avenida Doutor Francisco Luís Gomes",
+    "coordinates": {
+      "lng": -9.107327912,
+      "x": -84666.8,
+      "y": -99295.3,
+      "z": 0.0,
+      "lat": 38.76980435
+    },
+    "id": "METEMP0079",
+    "value": 21.5
+  }
+]
